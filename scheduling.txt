@@ -1,0 +1,13 @@
+1) If the current process needs the work of another process to continue doing its work, 
+it could tell the scheduler to run this exact process.
+
+2)
+
+G   B   A    D    C    F    H    E
+2   5   8    12   16   21   34   55
+
+2 + 7 + 15 + 27 + 43 + 64 + 98 + 153 = 409
+AVG: 409/8 = 51,125
+
+3)
+This proceses would have double the processor time in one run.
